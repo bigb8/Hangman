@@ -17,7 +17,11 @@ To get started with Hangman Assistant, clone this repository and ensure you have
 - Python 3.x
 
 ### Installation
+Simple:
+Download python files and run hangmanassistant.py
+I do not think it will work on colab. But locally on PC or mac should be an out-of-the-box experience.
 
+CLI like style
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/hangmanassistant.git
